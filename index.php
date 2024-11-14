@@ -8,6 +8,7 @@
 <body>
     <div><h1>Curso Web</h1></div>
     <a href="hola.php" target="_blank" rel="noopener noreferrer">Ir A Hola Mundo</a>
+    <p>Esto es una redaccion en GitHub</p>
     
 </body>
 </html>
